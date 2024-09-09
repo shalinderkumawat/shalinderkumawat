@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shalinderkumawat
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java and html ,css , java script , more...
+- 🌱 I’m currently learning java full stack
 - 💞️ I’m looking to collaborate on java based website's
 - 📫 How to reach me email shailendrakumawa699@gmail.com
 
